@@ -1,2 +1,2 @@
 # Fast-Place
-A Fast Place Minecraft mod
+A Fast Place Minecraft mod to place block more quiqly
