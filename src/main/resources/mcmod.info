@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fastplace",
+  "name": "FastPlace mod",
+  "description": "FastPlace mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Agent Mimosa"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
