@@ -13,13 +13,12 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.0"
-group= "me.mimosa.fastplace"
-archivesBaseName = "fastplace"
+group= "me.mimosa.fastplace" 
 
 minecraft {
-    version = "1.8.9-11.15.1.1722"
+    version = "1.8.8-11.15.0.1655"
     runDir = "run"
-    mappings = "stable_20"
+    mappings = "snapshot_20151122"
 }
 
 dependencies {
